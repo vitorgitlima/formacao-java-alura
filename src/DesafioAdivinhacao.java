@@ -23,7 +23,7 @@ public class DesafioAdivinhacao {
             }
         }
 
-        if (tentativas == 5){
+        if (tentativas == 5) {
             System.out.println("Voce não conseguiu adivinha o número em 5 tentativas. O número era " + aleatorio);
         }
     }
